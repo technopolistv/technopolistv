@@ -13,6 +13,8 @@ Here are some ways to get in touch with Technopolis:
 
 📨 <a href="https://t.me/TechnopolisAdmin">TechnopolisAdmin</a>
 
+▶️ <a href="https://www.youtube.com/@TechnopolisDotTV">TechnopolisDotTV</a>
+
 🐙 <a href="https://github.com/technopolistv">Technopolistv</a>
 
 ### <i class="fa-solid fa-lock"></i> GPG Key
