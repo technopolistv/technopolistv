@@ -1,23 +1,23 @@
 
 Here are some ways to get in touch with Technopolis:
 
-🌐 <a href="https://www.technopolis.tv">www.technopolis.tv</a>
+🌐 Blog: <a href="https://www.technopolis.tv">www.technopolis.tv</a>
 
-📧 <a href="mailto:info@technopolis.tv">info@technopolis.tv</a>
+📧 E-Mail: <a href="mailto:info@technopolis.tv">info@technopolis.tv</a>
 
-💡 <a href="xmpp:technopolis@xmpp.social">technopolis@xmpp.social</a>
+💡 XMPP: <a href="xmpp:technopolis@xmpp.social">technopolis@xmpp.social</a>
 
-🐦 <a href="https://twitter.com/technopolis_tv">Technopolis_tv</a>
+🐦 Twitter: <a href="https://twitter.com/technopolis_tv">Technopolis_tv</a>
 
-🐘 <a rel="me" href="https://mastodon.social/@technopolis">Technopolis</a>
+🐘 Mastodon: <a rel="me" href="https://mastodon.social/@technopolis">Technopolis</a>
 
-📨 <a href="https://t.me/TechnopolisAdmin">TechnopolisAdmin</a>
+📨 Telegram: <a href="https://t.me/TechnopolisAdmin">TechnopolisAdmin</a>
 
-▶️ <a href="https://www.youtube.com/@TechnopolisDotTV">TechnopolisDotTV</a>
+▶️ YouTube: <a href="https://www.youtube.com/@TechnopolisDotTV">TechnopolisDotTV</a>
 
-🐙 <a href="https://github.com/technopolistv">Technopolistv</a>
+🐙 GitHub: <a href="https://github.com/technopolistv">Technopolistv</a>
 
-### <i class="fa-solid fa-lock"></i> GPG Key
+### 🔐 GPG Key
 ```
 Fingerprint: 3C83 4B79 CD2E 0DC5 9C77  9E51 5D06 B7CD B9FB 1278
 
